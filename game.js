@@ -49,3 +49,5 @@ let questions = [
     }
 ]
 
+//Score multiplyer
+const SCORE_POINTS = 1000
