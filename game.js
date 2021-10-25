@@ -51,3 +51,5 @@ let questions = [
 
 //Score multiplyer
 const SCORE_POINTS = 1000
+//Max question set
+const MAX_QUESTIONS = 4
