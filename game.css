@@ -60,3 +60,18 @@ h1 {
     text-align: center;
 }
 
+/*progress bar*/
+#progressBar{
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem solid chartreuse;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+#progressbarfull{
+    height: 100%;
+    background: chartreuse;
+    width: 0%;
+}
+
