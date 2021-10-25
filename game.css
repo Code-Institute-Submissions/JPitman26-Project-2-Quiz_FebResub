@@ -44,3 +44,19 @@ h1 {
     background: linear-gradient(32deg, rgba(230, 29, 29, 1) 0%, rgba(224, 11, 11, 1) 100%);
 }
 
+/*heads up display*/
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix {
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+.hud-main-text{
+    font-size: 3rem;
+    text-align: center;
+}
+
