@@ -10,6 +10,7 @@
     <li><a href="#features">Features</a></li>
     <li><a href="#validation">Validation</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#deployment">Deployment</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
