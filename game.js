@@ -53,3 +53,11 @@ let questions = [
 const SCORE_POINTS = 1000
 //Max question set
 const MAX_QUESTIONS = 4
+
+startGame = () => {
+    questionCounter = 0
+    score = 0
+    /*Spread operator to get question values*/
+    availableQuestions = [...questions]
+    getNewQuestion()
+}
