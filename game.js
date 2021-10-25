@@ -9,3 +9,7 @@ let currentQuestion = {}
 let acceptingAnswers = true
 //Sets score to 0 
 let scorer = 0
+//Sets available questions to 0
+let questionCounter = 0
+let availableQuestions = []
+
