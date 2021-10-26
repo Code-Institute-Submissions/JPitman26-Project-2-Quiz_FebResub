@@ -104,7 +104,7 @@ choices.forEach(choice => {
 
         selectedChoice.parentElement.classList.add(classToApply)
 
-        
+        window.location.href = window.location.host.includes('github') ? '/Project-2-Quiz/end.html' : 'end.html';
 
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply)
