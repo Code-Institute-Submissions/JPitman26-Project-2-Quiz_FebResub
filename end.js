@@ -36,3 +36,7 @@ saveHighScore = e => {
 
 
 }
+
+goHomeBtn = 
+    window.location.assign('./index.html')
+    window.location.href = window.location.host.includes('github') ? '/Project-2-Quiz/' : '/index.html';
