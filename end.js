@@ -24,15 +24,15 @@ saveHighScore = e => {
 
     highScores.push(score)
 
-    highScores.sort((a, b) => {
+    highScores.sort((a,b) => {
         return b.score - a.score
     })
 
     highScores.splice(5)
 
     localStorage.setItem('highScores', JSON.stringify(highScores))
-    window.location.assign('./index.html')
+    window.location.assign('/')
     window.location.href = window.location.host.includes('github') ? '/Project-2-Quiz/' : '/index.html';
 
-
+    
 }
