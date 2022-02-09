@@ -1,5 +1,5 @@
 # Challenge Quiz
-<summary>Table of Contents</summary>
+## <summary> Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -54,7 +54,8 @@ Challenge Quiz is designed for straight forward use and relys on the users gener
 5. Open a Pull Request
 
 ## Deployment 
-Introspective Lifestyle was deployed to [GitHub Pages](https://pages.github.com/)
+Introspective Lifestyle was deployed to [GitHub Pages](https://jpitman26.github.io/Project-2-Quiz/index.html)
+
 
 ## Contact
 Jack Pitman - PitmanJack2@gmail.com <br>
